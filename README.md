@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Eustaquio. 
 
 - 🔭 Estou à procura de estágio.
-- 🌱 Estudando desenvolvimento web fullstack.
+- 🌱 Estudando desenvolvimento web.
 
 <div align="center">
   <a href="https://github.com/GabrielEustaquio">
